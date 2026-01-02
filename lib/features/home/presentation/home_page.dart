@@ -52,6 +52,7 @@ class HomePage extends StatelessWidget {
   }
 }
 
+
 /// Decorative pattern painter for Tamil-inspired designs
 class _DecorativePatternPainter extends CustomPainter {
   @override
